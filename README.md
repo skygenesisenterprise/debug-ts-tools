@@ -1,1 +1,1 @@
-# TypeScript Debug Tools 
+# TypeScript Debug Tools
